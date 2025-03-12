@@ -86,7 +86,7 @@ If you have multiple submission versions. Please index the file name as: `result
 
 Your submission score will be shown in the leaderboard below. The highest score is in bold.
 
-|StudentID|Score|Best score|
+|GroupID|Score|Best score|
 |:---|:---:|:---:|
 |Group 1| | |
 |Group 2| | |
