@@ -88,16 +88,15 @@ Your submission score will be shown in the leaderboard below. The highest score 
 
 |GroupID|Score|Best score|
 |:---|:---:|:---:|
-|Group 1| 44.12 | 44.12 |
+|Group 1| 26.41 | 44.12 |
 |Group 2| | |
 |Group 3| 67.11 | **67.11** |
 |Group 4| 59.91 | 59.91 |
-|Group 5| | |
+|Group 5| 53.64| 53.64 |
 |Group 6| 55.96 | 55.96 |
 |Group 7| 58.24| 58.24 |
 |Group 8| 57.30 | 57.30 |
 |Group 9| | |
-|Group 10| | |
 |Baseline|55.23| |
 
 ## Deadline: 23h59 19/03/2025
