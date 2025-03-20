@@ -89,7 +89,7 @@ Your submission score will be shown in the leaderboard below. The highest score 
 |GroupID|Score|Best score|
 |:---|:---:|:---:|
 |Group 1| 53.83 | 53.83 |
-|Group 2| 54.21 | 54.21 |
+|Group 2| 54.65 | 54.65 |
 |Group 3| 67.11 | 67.11 |
 |Group 4| 62.23 | 62.23 |
 |Group 5| 56.86| 56.86 |
