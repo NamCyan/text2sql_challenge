@@ -88,6 +88,18 @@ Your submission score will be shown in the leaderboard below. The highest score 
 
 |GroupID|Score|Best score|
 |:---|:---:|:---:|
-|||
+|1||
+|2||
+|3||
+|4||
+|5|64.01|64.01
+|6||
+|8||
+|9||
+|10||
+|11||
+|12||
+|13||
+|14||
 
-## Deadline: 23h59 19/03/2025
+## Deadline: 23h59 17/05/2026
