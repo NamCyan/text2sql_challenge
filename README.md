@@ -97,7 +97,7 @@ Your submission score will be shown in the leaderboard below. The highest score 
 |8|49.48|49.48|
 |9||
 |10||
-|11|35.60|35.60|
+|11|65.17|**65.17**|
 |12||
 |13||
 |14||
