@@ -95,13 +95,13 @@ Your submission score will be shown in the leaderboard below. The highest score 
 |5|64.01|64.01|
 |6|55.04|55.04|
 |8|68.48|68.48|
-|9|18.41|41.35|
+|9|58.41|58.41|
 |10|64.32|64.32|
 |11|77.11|**77.11**|
 |12|50.25|65.19|
 |13|62.50|62.50|
 |14||
-|15|53.83|53.83|
+|15|49.14|53.83|
 
 ## BEST PERFORMANCE UNTIL NOW: 73.69
 ## Deadline: 23h59 09/05/2026
